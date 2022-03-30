@@ -1,0 +1,6 @@
+com/example/alliance_app_team_04/test/BuildConfig.java
+ com.example.alliance_app_team_04.test.BuildConfig
+com/example/alliance_app_team_04/ExampleInstrumentedTest.java
+ com.example.alliance_app_team_04.ExampleInstrumentedTest
+com/example/alliance_app_team_04/InplannenTrainingTest.java
+ com.example.alliance_app_team_04.InplannenTrainingTest

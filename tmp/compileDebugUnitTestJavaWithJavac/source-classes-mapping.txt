@@ -1,0 +1,2 @@
+com/example/alliance_app_team_04/ExampleUnitTest.java
+ com.example.alliance_app_team_04.ExampleUnitTest
